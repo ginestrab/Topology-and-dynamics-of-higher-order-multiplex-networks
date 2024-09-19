@@ -1,4 +1,4 @@
-# Topology-and-dynamics-of-higher-order-multiplex-networks
+# Topology-and-dynamics-of-higher-order-multiplex-networks 
 
 This repository contains 4 MATLAB codes to investigate the spectral properties of the Multiplex Hodge Laplacian on random duplex networks with tunable link overlap.
 
